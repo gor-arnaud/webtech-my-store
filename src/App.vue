@@ -19,8 +19,6 @@
   </div>
 </template>
 
-<style></style>
-
 <script>
 import axios from "axios";
 
@@ -43,6 +41,14 @@ export default {
 <style>
 h1 {
   text-align: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+h1 img {
+  margin-left: 10px;
 }
 
 * {
@@ -63,7 +69,7 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  box-shadow: blueviolet 0px 0px 3px;
+  box-shadow: #8a2be2 0px 0px 3px;
   border-radius: 30px;
 }
 .product-title {
