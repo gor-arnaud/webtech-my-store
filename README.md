@@ -1,24 +1,7 @@
-# webtech-my-store
+# <img src="src/assets/Logo_Zalando.svg" alt="Zalanda Logo"   width="20" height="20"> ZALANDA
 
-## Project setup
-```
-npm install
-```
+<span style="color: purple;">ZALANDA</span> est une version améliorée du célèbre site de vente en ligne Zalondo. Avec une interface utilisateur plus conviviale, des fonctionnalités avancées et une expérience de shopping optimisée, Zalanda s'impose comme la nouvelle référence dans le monde du commerce électronique. Explorez notre site pour découvrir une nouvelle façon de magasiner en ligne !
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<br>
+<br>
+<video src="src/assets/zalanda.mp4" autoplay loop muted></video>
