@@ -1,0 +1,10 @@
+.product-grid {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .product {
+    flex: 1 0 33.33%;
+    box-sizing: border-box;
+    padding: 10px;
+  }
